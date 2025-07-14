@@ -10,7 +10,7 @@
     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="Telegram" width="38">
   </a>
   <a href="mailto:plusenergi77@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Kontak%20Saya-blue?style=for-the-badge&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email">
   </a>
   <a href="https://www.upwork.com/freelancers/~your_upwork_id" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-Ready%20to%20Hire-brightgreen?style=for-the-badge&logo=upwork" alt="Upwork">
@@ -18,56 +18,56 @@
   <img src="https://komarev.com/ghpvc/?username=HudronBalyani&style=for-the-badge" alt="Views">
 </p>
 
-<h1 align="center">Hai, saya <strong>Hudron Balyani</strong> 👋</h1>
-<h4 align="center">Freelancer Python yang mengubah proses manual menjadi <em>automasi elegan</em>—dari scraping web, pemrosesan Excel massal, sinkronisasi database, hingga skrip root Android.</h4>
+<h1 align="center">Hi, I’m <strong>Hudron Balyani</strong> 👋</h1>
+<h4 align="center">A Python freelancer who transforms manual processes into <em>elegant automation</em>—from web scraping, bulk Excel processing, database synchronization, to Android root scripting.</h4>
 
 ---
 
-## 🎬 Demo Cepat
-
-> GIF di bawah menampilkan satu alur “scrape → bersihkan → ekspor” secara asinkron (<5 detik) – representasi umum semua pipeline yang saya bangun.
+## 🎬 Quick Demo
 
 ![Automation Demo](https://raw.githubusercontent.com/x0rzavi/github-readme-terminal/main/demo.gif)
 
----
-
-## 💎 USP saya (Unique Selling Propositions)
-
-| 🏆 Keunggulan | Manfaat Langsung untuk Anda |
-|--------------|-----------------------------|
-| **Automasi End-to-End** | Script saya memulai dari input mentah (web/API/berkas) sampai output siap analisis (Excel/DB/CSV). |
-| **Skalabilitas Async** | Gunakan `asyncio` & `aiohttp` untuk ribuan request per menit tanpa memblokir thread. |
-| **Data Hygiene** | Pipeline bersih: validasi skema (`pydantic`), pembersihan kolom, merge-cells fix, penyesuaian tipe. |
-| **DevOps Sederhana** | Dockerfile + GitHub Actions → CI lulus & badge hijau menaikkan kepercayaan klien. |
-| **Dokumentasi Jelas** | Setiap proyek punya README, argparser & contoh CLI; memudahkan hand-over. |
+> The GIF above demonstrates an **async scrape → clean → export to Excel** workflow in under 5 seconds—representing the kind of pipelines I build.
 
 ---
 
-## 🌟 Rangkuman Keahlian Berdasarkan Repo
+## 💎 My Unique Selling Propositions (USPs)
 
-| Area | Tools / Library | Contoh Implementasi |
-|------|-----------------|---------------------|
-| **Web & Data Scraping** | `asyncio`, `aiohttp`, `Playwright`, `BeautifulSoup` | Scrape ratusan endpoint API / halaman dinamis tanpa diblokir. |
-| **Excel Automation** | `openpyxl`, `pandas`, YAML batch rules | Konversi .xls jadul → .xlsx, auto-clean kolom & penambahan rumus. |
-| **Database Sync** | `sqlite3`, diff-patch logic | Update ribuan file *.db* di folder bersarang dengan SQL template. |
-| **REST Uploader** | `requests`, `httpx.AsyncClient` | CLI yang meng-upload foto & data JSON ke server P2DP dengan retry queue. |
-| **Android Shell** | Bash + ADB (root) | Skrip backup, inject data, dan pull database untuk QA perangkat. |
-| **Dev Tooling** | Docker, GitHub Actions, flake8/pylint | Setiap repo punya workflow tes & build untuk stabilitas. |
-
----
-
-## 🚀 Studi Kasus Mini
-
-* **Konversi 500 file .XLS ke .XLSX**  
-  → 2 menit vs 4 jam manual, siap dipakai Power BI.  
-* **Sinkronisasi 1200 SQLite di device lapangan**  
-  → 3,5 × lebih cepat; error rate 0 %.  
-* **Scraping portal multi-login dengan captcha**  
-  → Headless Playwright + bait rotator; hasil stabil 100 k record/hari.
+| 🏆 Advantage            | Direct Benefit for You                                            |
+|-------------------------|-------------------------------------------------------------------|
+| **End-to-End Automation** | My scripts handle raw inputs (web/API/files) through to analysis-ready outputs (Excel/DB/CSV). |
+| **Async Scalability**     | Leverage `asyncio` & `aiohttp` for thousands of requests per minute without blocking. |
+| **Data Hygiene**          | Clean pipelines with schema validation (`pydantic`), column cleaning, merge-cell fixes, and type coercion. |
+| **Simple DevOps**         | Dockerfile + GitHub Actions → passing CI & green badges build client confidence. |
+| **Clear Documentation**   | Every project includes a README, argparser examples & CLI usage for easy handovers. |
 
 ---
 
-## 🔧 Stack Ikon
+## 🌟 Skills Overview by Repository
+
+| Area                   | Tools / Libraries                      | Example Implementation                                             |
+|------------------------|----------------------------------------|--------------------------------------------------------------------|
+| **Web & Data Scraping** | `asyncio`, `aiohttp`, `Playwright`, `BeautifulSoup` | Scraping hundreds of API endpoints or dynamic pages reliably.      |
+| **Excel Automation**    | `openpyxl`, `pandas`, YAML batch rules | Converting legacy `.xls` to `.xlsx`, auto-cleaning columns & formulas. |
+| **Database Sync**       | `sqlite3`, diff-patch logic            | Updating thousands of `.db` files in nested folders via SQL templates. |
+| **REST Uploader**       | `requests`, `httpx.AsyncClient`        | CLI tool uploading photos & JSON data to a P2DP server with retry queues. |
+| **Android Shell**       | Bash + ADB (root)                      | Scripts for APK backups, data injection, and pulling databases for QA. |
+| **Dev Tooling**         | Docker, GitHub Actions, flake8/pylint   | Test & build workflows in every repo to ensure stability.          |
+
+---
+
+## 🚀 Mini Case Studies
+
+* **Converted 500 `.XLS` files to `.XLSX`**  
+  → 2 minutes vs. 4 hours manually, ready for Power BI.  
+* **Synchronized 1,200 SQLite files in the field**  
+  → 3.5× faster; 0% data errors.  
+* **Scraped a multi-login portal with CAPTCHA**  
+  → Headless Playwright + bait rotation; stable 100k records/day.
+
+---
+
+## 🔧 Technology Stack
 
 <p align="center" style="margin-bottom:6px;">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
@@ -84,12 +84,12 @@
 
 ---
 
-## 🔄 Workflow Kerja
+## 🔄 Workflow
 
 ```mermaid
 flowchart LR
-    A[Diskusi Kebutuhan] --> B{Prototipe ≤ 48 jam?}
-    B --Ya--> C[PoC Cepat]
-    B --Tidak--> D[Roadmap Sprint]
-    C & D --> E[Test Otomatis & Review]
-    E --> F[Deploy / Hand-over]
+    A[Requirement Discussion] --> B{Proof of Concept ≤ 48h?}
+    B -- Yes --> C[Quick PoC]
+    B -- No  --> D[Sprint Roadmap]
+    C & D --> E[Automated Tests & Review]
+    E --> F[Deploy / Handover]
