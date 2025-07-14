@@ -1,5 +1,5 @@
 <!-- ==================================================================== -->
-<!--                     H U D R O N   B A L Y A N I                      -->
+<!--                     H U D R O N   B A L Y A N                       -->
 <!--       Python Automation • Web/Data Scraping • Excel & DB Pipelines   -->
 <!-- ==================================================================== -->
 
@@ -20,14 +20,6 @@
 
 <h1 align="center">Hi, I’m <strong>Hudron Balyani</strong> 👋</h1>
 <h4 align="center">A Python freelancer who transforms manual processes into <em>elegant automation</em>—from web scraping, bulk Excel processing, database synchronization, to Android root scripting.</h4>
-
----
-
-## 🎬 Quick Demo
-
-![Automation Demo](https://raw.githubusercontent.com/x0rzavi/github-readme-terminal/main/demo.gif)
-
-> The GIF above demonstrates an **async scrape → clean → export to Excel** workflow in under 5 seconds—representing the kind of pipelines I build.
 
 ---
 
